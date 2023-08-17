@@ -9,7 +9,7 @@
 ![Dionatan  GitHub stats](https://github-readme-stats.vercel.app/api?username=DionatanCezar&show_icons=true&theme=dark&count_private=true)
 
 
-## Tecnologias que eu uso no meu dia
+## Technologies I use in my day
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -21,4 +21,4 @@
 </div><br/>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DionatanCezar&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DionatanCezar&layout=compact&title_color=fff&text_color=f8f8f2&hide=java&bg_color=171c24)
