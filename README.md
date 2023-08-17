@@ -3,7 +3,7 @@
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dionatan-cezar-323666276/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sujeitoprogramador)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/john__cezar/)
 
 
 ![Dionatan  GitHub stats](https://github-readme-stats.vercel.app/api?username=DionatanCezar&show_icons=true&theme=dark&count_private=true)
