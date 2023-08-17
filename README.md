@@ -6,7 +6,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/john__cezar/)
 
 
-![Dionatan  GitHub stats](https://github-readme-stats.vercel.app/api?username=DionatanCezar&show_icons=true&theme=dark&count_private=true)
+![Dionatan  GitHub stats](https://readmestats.999857.xyz/api?username=DionatanCezar&show_icons=true&theme=dark&count_private=true)
 
 
 ## Technologies I use in my day
@@ -21,4 +21,4 @@
 </div><br/>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DionatanCezar&layout=compact&title_color=fff&text_color=f8f8f2&hide=java&bg_color=171c24)
+![Top Langs](https://readmestats.999857.xyz/api/top-langs/?username=DionatanCezar&layout=compact&title_color=fff&text_color=f8f8f2&hide=java&bg_color=171c24)
